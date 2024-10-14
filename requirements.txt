@@ -1,0 +1,4 @@
+Flask==3.0.3
+Flask_Cors==5.0.0
+json_repair==0.29.10
+zhipuai==2.1.5.20230904
